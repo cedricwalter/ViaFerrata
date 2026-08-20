@@ -1,4 +1,4 @@
-Tälli Ferrata Together
+# Tälli Ferrata Together 
 
 A scenic and impressive via ferrata in classic style, totalling 14 ladders, iron bars, pins and steel cables for security. The main difficulties are encountered in the lowest section. For the return path, conditions are very important.
 
@@ -35,8 +35,8 @@ Travelling home: by public transportation
 
 🚰 Water:  enough for 3+2.5 ‎ = 5.5hours of efforts 
 🔗 Links:
-https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
-https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
+- https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
+- https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
@@ -44,3 +44,7 @@ Berggasthaus Tälli
 Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
+
+<img width="474" height="669" alt="talli2" src="https://github.com/user-attachments/assets/6e7d856f-f4a3-42cf-9784-50250bf6d7ed" />
+<img width="474" height="244" alt="talli1" src="https://github.com/user-attachments/assets/c03f7585-3b58-44fc-a309-7e842085d040" />
+
