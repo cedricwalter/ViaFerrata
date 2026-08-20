@@ -20,7 +20,7 @@ Route overview:
 Sections 1 and 2 Mittlerer Eggstock 2434 m  is a K3
 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/mittlerer-eggstock-549/via-ferrata/braunwald-eggstoecke-via-ferrata-sections-1-and-2-758/ 
 
-You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/qqHSogNNw1DJexwp8
+You MUST sign the waiver form, it contains detailed information about the difficulty and more -> [https://forms.gle/qqHSogNNw1DJexwp8](https://forms.gle/oP74ecNYymKbHPXz5)
 
 ⏱️ Duration 7-8 hours total
 
