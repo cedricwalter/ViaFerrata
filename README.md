@@ -18,9 +18,8 @@ Protect all links from post use https://www.shieldmylinks.com or any other servi
 # Next via ferrata adventure
 Here is some of the best search engine to find a new location:
 
-	•	https://www.ferratago.com/
-	•	https://www.bergsteigen.com/touren/klettersteig/
-	•	https://ferrataguide.com/ferratas/map 
-	•	https://www.via-ferrata.de/klettersteig-karte/
-	•	https://ferrataguide.com/
-	•	https://www.outdooractive.com/en/via-ferratas/switzerland/via-ferratas-in-switzerland/1443353/
+- https://www.ferratago.com/
+- https://www.bergsteigen.com/touren/klettersteig/
+- https://ferrataguide.com/ferratas/map 
+- https://www.via-ferrata.de/klettersteig-karte/
+- https://www.outdooractive.com/en/via-ferratas/switzerland/via-ferratas-in-switzerland/1443353/
