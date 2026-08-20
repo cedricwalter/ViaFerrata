@@ -30,3 +30,7 @@ You must reserve your seats using this link https://www.mornera.ch/en/cable-car/
 
 Via Ferrata kit rental
 Equipment rental at Grotto Mornera to be booked at 091 825 84 38 (helmet + set CHF 30.00) Or bringing your own Via Ferrata complete set.
+
+<img width="1021" height="663" alt="dei2" src="https://github.com/user-attachments/assets/31bf4fee-746d-4215-bd27-cbf754eaf788" />
+<img width="474" height="669" alt="dei1" src="https://github.com/user-attachments/assets/755aa6cf-f1ea-494d-894b-34ad1dec0931" />
+
