@@ -1,4 +1,4 @@
-Almenalp Ferrata Together
+# Almenalp Ferrata Together
 
 A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely. These routes incorporate steel cables, rungs, ladders, and bridges, which serve as both climbing aids and continuous anchors for a special via ferrata safety set to clip into, blending the experience of hiking and rock climbing.
 
