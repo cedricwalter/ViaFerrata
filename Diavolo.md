@@ -44,5 +44,6 @@ Call ASAP to reserve 
 https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/tuefelstalboden-7805/klettersteig/via-ferrata-del-diavolo-743/
 https://www.bergsteigen.com/touren/klettersteig/la-farina-del-diavolo-ferrata/
 https://www.mountainreporters.com/gebieden/midden-europa/zwitserland/adrenaline-voor-beginners-klettersteig-diavolo-in-andermatt/
+https://www.youtube.com/watch?v=G1xWglqVZ9M
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
