@@ -1,4 +1,4 @@
-Jegihorn Ferrata Together
+# Jegihorn Ferrata Together
 
 A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely. These routes incorporate steel cables, rungs, ladders, and bridges, which serve as both climbing aids and continuous anchors for a special via ferrata safety set to clip into, blending the experience of hiking and rock climbing.
 
@@ -49,11 +49,12 @@ Saastalstrasse 241
 +41 27 957 14 40
  zurbriggensport@bluewin.ch
 It is close to the Bus stop and cable car.
+<img width="736" height="1600" alt="jegi1" src="https://github.com/user-attachments/assets/07d5714b-086f-4f8c-b582-366c02945ccd" />
 
 
 🔗 Links: www.off-the-trail.de/jegihorn 
-https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/
-https://www.bergsteigen.com/touren/klettersteig/jegihorn-klettersteig/
+- https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/jegihorn-saas-grund-7799/via-ferrata/
+- https://www.bergsteigen.com/touren/klettersteig/jegihorn-klettersteig/
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
@@ -64,3 +65,5 @@ Saastal Tourismus AG Obere Dorfstrasse 2 3906 Saas-Fee Tel.: +41 (0)27 958
 Bergbahnen Hohsaas AG Seilbahnstrasse 18 3910 Saas-Grund Tel.: +41 27 958 15 80 E-Mail: info@hohsaas.ch www.hohsaas.ch
 
 Weissmieshütte Family Carla & Roberto Arnold 3910 Saas-Grund Tel. +41 27 957 25 54 E-Mail: huette@weissmieshuette.ch www.weissmieshuette.ch
+
+<img width="597" height="842" alt="jegi2" src="https://github.com/user-attachments/assets/225b4f66-05bf-411c-81e7-66064919e64e" />
