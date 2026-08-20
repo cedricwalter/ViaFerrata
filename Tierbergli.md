@@ -1,4 +1,4 @@
-Tierbergli Ferrata Together
+# Tierbergli Ferrata Together
 
 A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely. These routes incorporate steel cables, rungs, ladders, and bridges, which serve as both climbing aids and continuous anchors for a special via ferrata safety set to clip into, blending the experience of hiking and rock climbing.
 
@@ -30,8 +30,8 @@ Travelling home: by public transportation
 
 🚰 Water:  enough for 3+2.5 ‎ = 5.5hours of efforts 
 🔗 Links:
-https://ferrataguide.com/ferrata/Klettersteig_Tierbergli 
-https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/
+- https://ferrataguide.com/ferrata/Klettersteig_Tierbergli 
+- https://www.bergsteigen.com/touren/klettersteig/tierbergli-klettersteig/
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
@@ -39,3 +39,6 @@ Berggasthaus Tälli
 Mountain cabin in Innertkirchen
 www.taelli.ch
 033 975 14 10
+
+<img width="474" height="669" alt="tierbergli" src="https://github.com/user-attachments/assets/11250a51-a081-4530-8c00-229cd3760419" />
+
