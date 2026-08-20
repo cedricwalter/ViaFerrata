@@ -1,4 +1,4 @@
-# ViaFerrata
+# Via Ferrata
 Via Ferrata in Switzerland and elsewhere, help organise recurring events in Ferrata Together meetup group.
 
 These files are kind of templates so you can create standardised events in meet-up, WhatsApp
