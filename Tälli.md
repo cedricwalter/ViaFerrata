@@ -9,7 +9,7 @@ Gadmen area
 
 Top hill  https://www.meteoschweiz.admin.ch/lokalprognose/taellistock.html#forecast-tab=detail-view 
 
-📈 Difficulty: K3, +500m, 3h
+📈 Difficulty: K3, +500m, 3h https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/klettersteig/taelli-klettersteig-848/
 
 👨‍⚖️ Legal waiver: MUST be signed by all participants  https://forms.gle/9SX3Wk6BZVZHPNC49
 
