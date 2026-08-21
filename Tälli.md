@@ -25,15 +25,15 @@ https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EGadmen%2C+T%C3%A4llibahn_I
 
 🚠  07:00 to 21:30  https://www.grimselwelt.ch/bahnen/taellibahn/ 
 
-🏁 Start: 1726m, 1h
-🎯 End:  2555m, 3h
-🚶🏻‍♂️ Exit: 2-2.5 hours trek down, via satteli back to TälliHütte
+🏁 Start: 1726m, 1,5h, +330m T3+ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
+🎯 End:  2555m, 3h, +500m, K3
+🚶🏻‍♂️ Exit: 2.5 hours trek down, +260m -1060m T4, via satteli back to TälliHütte https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/abstieg-vom-taelli-klettersteig-zur-taellihuette-oder-engstlenalp-850/
 
 Travelling home: by public transportation
 
-💬 WhatsApp group: https://chat.whatsapp.com/XXXX
+💬 WhatsApp group: [https://chat.whatsapp.com/XXXX](https://www.shieldmylinks.com/c/flhpmtp9)
 
-🚰 Water:  enough for 3+2.5 ‎ = 5.5hours of efforts 
+🚰 Water: enough for 7-8h of efforts 
 🔗 Links:
 - https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/berggasthaus-taelli-2147000263/
 - https://ferrataguide.com/ferrata/T%C3%A4lli_Klettersteig
