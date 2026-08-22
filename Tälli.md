@@ -18,10 +18,12 @@ Find the turquoise Zürich Together Banner.
 
 🏁 Time of leaving:  XXXAM to platform XXX
 
-🚂 Recommended train:  
+🚗 1h 52 min from Zürich to Tällibahn Bergstation, Grimselstrasse 19, 3862 Innertkirchen
+
+🚂 3h 15 min recommended train:  
 06:10 platform 6
 9:10 arrival at Tällibahn
-https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EGadmen%2C+T%C3%A4llibahn_I8582258&day=2026-08-08&time=09_00&moment=arr&cursor=M3xPRnxNVMK1MTTCtTM0NDM3NcK1MzQ0Mzc1wrUzNDQ2NTXCtTM0NDY1NcK1MMK1MMK1MTg0wrUzNDQ3MDDCtS0xwrUwwrUywrUwwrUwwrUwwrUxwrUxfFBESMK1NjBhZTY1MjhmZGM5MTBhOGM3OTE2YTk4MGEzZTM1NmF8UkTCtTgwODIwMjZ8UlTCtTkwMDAwfFVTwrUwfFJTwrVJTklU&trip=1_1
+https://a.sbbmobile.ch/s/Gb6VKwsU
 
 🚠  07:00 to 21:30  https://www.grimselwelt.ch/bahnen/taellibahn/ 
 
