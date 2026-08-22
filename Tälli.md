@@ -20,12 +20,14 @@ Find the turquoise Zürich Together Banner.
 
 🚗 1h 52 min from Zürich to Tällibahn Bergstation, Grimselstrasse 19, 3862 Innertkirchen
 
+🅿️ Parking is free - up to 50 cars - Sustenstrasse 190, 3863 Innertkirchen
+
 🚂 3h 15 min recommended train:  
 06:10 platform 6
 9:10 arrival at Tällibahn
 https://a.sbbmobile.ch/s/Gb6VKwsU
 
-🚠  07:00 to 21:30  https://www.grimselwelt.ch/bahnen/taellibahn/ 
+🚠  07:00 to 21:30 - 18.- CHF back and forth -  https://www.grimselwelt.ch/bahnen/taellibahn/ 
 
 🏁 Start: 1726m, 1,5h, +330m T3+ https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/gadmerflue-ausstieg-taellistock-klettersteig-7812/berg-und-alpinwandern/zustieg-zum-taelli-klettersteig-849/
 🎯 End:  2555m, 3h, +500m, K3
@@ -33,7 +35,7 @@ https://a.sbbmobile.ch/s/Gb6VKwsU
 
 Travelling home: by public transportation
 
-💬 WhatsApp group: [https://chat.whatsapp.com/XXXX](https://www.shieldmylinks.com/c/flhpmtp9)
+💬 WhatsApp group: https://www.shieldmylinks.com/c/f85pvlkl
 
 🚰 Water: enough for 7-8h of efforts 
 🔗 Links:
