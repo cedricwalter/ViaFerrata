@@ -58,3 +58,4 @@ Travelling home: by public transportation
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
+<img width="1357" height="960" alt="IMG_3842" src="https://github.com/user-attachments/assets/7edb1c75-3a5f-4574-9537-16789c8e182b" />
