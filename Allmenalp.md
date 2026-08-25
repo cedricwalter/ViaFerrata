@@ -1,3 +1,4 @@
+<img width="1240" height="1754" alt="IMG_3177" src="https://github.com/user-attachments/assets/d9d8abb7-c597-43ff-bd5d-eeb4fbaa1964" />
 # Almenalp Ferrata Together
 
 A via ferrata is a protected, fixed-cable climbing route that allows people to traverse steep or difficult rocky terrain safely. These routes incorporate steel cables, rungs, ladders, and bridges, which serve as both climbing aids and continuous anchors for a special via ferrata safety set to clip into, blending the experience of hiking and rock climbing.
@@ -74,6 +75,7 @@ Renting Equipment (+25 CHF max)
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
+<img width="1240" height="1754" alt="IMG_3177" src="https://github.com/user-attachments/assets/c0e6241e-83fa-46f8-aa76-793df21a1858" />
 
 
 ￼
