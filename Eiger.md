@@ -6,12 +6,12 @@ equipped with necessary gear. The key spot is the vertical step immediately afte
 climb. In heavy rain, snow or icy conditions, you are strongly advised against climbing the via
 ferrata! Rockfalls – as always around the Eiger! – cannot be ruled out!
 
-Kleine Scheidegg – Eigergletscher: approx. 1h
-Eigergletscher – Start: approx. 45mins
-Via ferrata: approx. 1h 15mins
-Descent – Eigergletscher: approx. 45mins
-Eigergletscher – Kleine Scheidegg: approx. 1h
-Kleine Scheidegg – Eigergletscher and back can also be done by mountain train.
+- Kleine Scheidegg – Eigergletscher: approx. 1h
+- Eigergletscher – Start: approx. 45mins
+- Via ferrata: approx. 1h 15mins
+- Descent – Eigergletscher: approx. 45mins
+- Eigergletscher – Kleine Scheidegg: approx. 1h
+- Kleine Scheidegg – Eigergletscher and back can also be done by mountain train.
 
 You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/xcxxxxx
 
