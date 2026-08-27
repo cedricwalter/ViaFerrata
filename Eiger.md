@@ -1,10 +1,25 @@
+# Eiger Via Ferrata
 
+The 260 meter high route is suitable for people who are used to via ferrata climbing and for
+experienced hikers with a head for heights. Be advised to only do via ferrata climbing when
+equipped with necessary gear. The key spot is the vertical step immediately after the start of the
+climb. In heavy rain, snow or icy conditions, you are strongly advised against climbing the via
+ferrata! Rockfalls – as always around the Eiger! – cannot be ruled out!
+
+Kleine Scheidegg – Eigergletscher: approx. 1h
+Eigergletscher – Start: approx. 45mins
+Via ferrata: approx. 1h 15mins
+Descent – Eigergletscher: approx. 45mins
+Eigergletscher – Kleine Scheidegg: approx. 1h
+Kleine Scheidegg – Eigergletscher and back can also be done by mountain train.
 
 You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/xcxxxxx
 
 ⏱️ Duration 3-4 hours total
 
-☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+☀️Weather: 
+- https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+- https://www.meteoschweiz.admin.ch/lokalprognose/eiger.html#forecast-tab=detail-view
 
 📈 Difficulty: K3, +450m, -450m
 
@@ -31,7 +46,12 @@ Travelling home: by public transportation
 
 🏊Lake: ????
 
-🛍️ Renting equipment: Please send an email now or call and reserve a via ferrata set with helmet for this satursday: There's a rental service directly with the valley station (Luftseilbahn Kandersteg-Allmenalp Allmenbahnstrasse 23 CH-3718 Kandersteg) of the cable car, opening hours 08.30 – 17.00 h. https://www.allmenalp.ch/en/experience/climbing.html Renting Equipment (+25 CHF max)
+🛍️ Renting equipment: 
+  Entire Via Ferrata, per day and person CHF 20.00
+  (Harness, loop, helmet). Gloves can be rented optional, without extra charge.
+  WYSS SPORT, Daniel Wyss, Kleine Scheidegg 345 D, CH – 3823 Kleine Scheidegg
+  Tel. +41 (0)33 855 15 45, info@wyss-sport.ch, www.wyss-sport.ch
+
 
 🔗 Links: 
 
