@@ -65,6 +65,8 @@ Decathlon https://rent.decathlon.ch/de/de-8754883
 🔗 Links: 
 - https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/
 - https://ferrataguide.com/ferrata/Hexensteig_D
+- https://swissfamilyfun.com/seewlisee-alpine-lake-hike/
+- https://swissfamilyfun.com/golzernsee/
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
 
