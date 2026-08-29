@@ -37,9 +37,9 @@ https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8jo
 🚗 By Car: Silene (Canton Uri) by train, bus or car. 
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car stationhttps://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
-🚠 Historical cable car costs 14.- both way 
+🚠 Historical cable car costs 14.- both way, top of cable car at 1159m
 
-🏁 Start 1.5h walk up to the start
+🏁 Start 1.5h walk up to the start: 1750 m
 
 🎯 End: +90m, 1H 
 
@@ -58,6 +58,7 @@ Not possible close to start, or around. I recommend from the one joining us to r
 Decathlon https://rent.decathlon.ch/de/de-8754883
 
 🔗 Links: 
+- https://www.bergsteigen.com/touren/klettersteig/hexensteig-silenen/
 - https://ferrataguide.com/ferrata/Hexensteig_D
 
 📓 QuickStart guide: https://docs.google.com/document/d/19oks3FaopmkEDDOAUF163Lo_qWMmBgFS0Ht5TqTf0YA
