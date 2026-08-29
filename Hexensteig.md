@@ -37,7 +37,7 @@ https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8jo
 🚗 By Car: Silene (Canton Uri) by train, bus or car. 
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car stationhttps://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
-🚠 Historical cable car costs 14.- both way, top of cable car at 1159m
+🚠 Historical cable car (7.00 to 21.00 in evening) costs 14.- both way (cash or Twint), up to 4 people (or 320 kg) per trip. Top of cable car at 1159m https://www.chilcherbergen.ch/ 
 
 🏁 Start 1.5h walk up to the start: 1750 m
 
@@ -51,7 +51,11 @@ Travelling home: by public transportation
 
 🚰 Water: No access to water for 4 hours!
 
-🏊Lake: if we go to oschinensee (+22.50.- for cable car back and forth) in the afternoon, consider bringing towel and
+🏊 Alpine lake (optional): two lake in the area.
+
+From the top station of the Silenen–Chilcherberge cable car, the hike to Seewlisee (Challenging 4.5 h 10 km +-1040m) is approximately 4 to 5.3 kilometres long,  2 to 2.5 hours to reach the lake. Elevation Gain: You will need to ascend roughly 1,000 to 1,040 vertical metres.
+
+Golzernsee take Luftseilbahn Golzern. From the top of the Bristen-Golzern cable car, it’s an easy walk on a smooth dirt path to the lake, about 30 mins. It’s mostly an obstacle-free path,
 
 🛍️ Renting equipment: 
 Not possible close to start, or around. I recommend from the one joining us to rent their Via Ferrata set at Transa.ch or
