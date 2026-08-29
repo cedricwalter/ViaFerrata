@@ -1,5 +1,23 @@
 # Hexensteig
 
+A via ferrata inside a mountain? Yes, it’s been there since July 2002, and as is typical of legendary figures, it remained hidden for a long time. 
+
+The via ferrata is located in a deep crevice on the Pfaffen, above the upper station of the Chilcherberge Openair Cable Car. 
+
+The route runs entirely inside the mountain, along tree trunks and clamps, and you use a zip line to cover the approximately 80 Hm, encountering witches and black holes along the way. 
+
+A magnificent mountain adventure that begins with a fantastic open-air ride on the cable car, which dates back to 1974. The ascent is not possible in strong winds of 60 km/h or more, and even in normal wind conditions, it’s an experience in itself.
+
+The via ferrata has challenging sections. The wall overhangs in places. This is especially true in wet conditions and due to the sometimes large gaps between the metal rungs. It is therefore not suitable for inexperienced climbers or children.
+
+The approach follows the hiking trail toward Seewli. Soon you’ll reach a forest with tree trunks as straight as a ruler. At a fork, do not turn left; instead, follow the trail straight ahead uphill. After the blue sign marked “Hexensteig,” continue on to the second rock crevice—that’s where the start of the via ferrata is located. 
+
+To start the via ferrata, you’ll cross a mini-gorge via a zip line. After that, the route—a combination of tree trunks and iron rungs—leads steeply upward through a rock crevice. About halfway up, a breezy bench invites you to take a break. 
+
+As you exit the “Hexenhäuschen,” there’s another spot to rest. If you continue climbing for about 10 minutes to the Pfaffen, you’ll be rewarded with a picnic area offering panoramic views. The return route follows the white-blue-white-marked alpine hiking trail downhill.
+
+You MUST sign the waiver form, it contains detailed information about the difficulty and more -> https://forms.gle/69DboWodpMhQHJRA6
+
 ⏱️ Duration 4 hours total min
 
 ☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
