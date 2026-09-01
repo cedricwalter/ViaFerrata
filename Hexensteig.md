@@ -35,12 +35,12 @@ https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8jo
 - At Silenen Dägerlohn bus station you need to walk 10min to the cable car parking and meeting point  https://www.google.com/maps/dir/Silenen,+Dägerlohn,+6473+Silenen/Luftseilbahn+Chilcherberg,+Brandistrasse,+6473+Silenen/@46.7914617,8.6702083,358m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47856a174f376345:0x2a965629372f7ba2!2m2!1d8.669075!2d46.792389!1m5!1m1!1s0x47856a6c37a537ab:0x5036be3b301c124d!2m2!1d8.6737476!2d46.790847!3e2?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
 🚗 By Car: Silene (Canton Uri) by train, bus or car. 
-If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car stationhttps://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
+If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
 🚠 Historical cable car (7.00 to 21.00 in evening) costs 14.- both way (cash, card or Twint), up to 4 people (or 320 kg) per trip. Top of cable car at 1159m https://www.chilcherbergen.ch/ 
-could be busy with waiting time.
+could be busy with waiting time. At the top, they are elling soft drinks for 3.-, have toilets
 
-🏁 Start 1.5h walk up to the start: 1750 m
+🏁 Start: exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest
 
 🎯 End: +90m, 1H 
 
