@@ -16,7 +16,7 @@ You MUST sign the waiver form, it contains detailed information about the diffic
 
 ☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view
 
-📈 Difficulty: C-D, +250m, 3h
+📈 Difficulty: C-D, +250m, 3h     Ferrata: 46.4836°, 9.9168°
 
 📍 Meeting Point: 05:45AM Zürich HB, Main Meeting point, around the clock Find the turquoise Zürich Together Banner.
 
@@ -50,15 +50,12 @@ Travelling home: by public transportation
 
 🔗 Links: 
 - https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
-- https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/ 
+- https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/
+
+<img width="769" height="906" alt="La Resgia" src="https://github.com/user-attachments/assets/032160e9-a5c4-4979-814d-196a8e91db31" />
+<img width="1240" height="716" alt="La Resgia2" src="https://github.com/user-attachments/assets/ffbcc8dc-956d-460a-9778-124d305226f9" />
 
 
 
-
-Elevation: 250m
-Moderately exposed
-
-
-Ferrata: 46.4836°, 9.9168°
 
 
