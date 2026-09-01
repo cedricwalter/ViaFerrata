@@ -48,7 +48,7 @@ Travelling home: by public transportation
 
 🔗 Links: 
 - https://ferrataguide.com/ferrata/Klettersteig_La_Resgia
-
+- https://www.bergsteigen.com/touren/klettersteig/klettersteig-la-resgia/ 
 
 
 
