@@ -37,8 +37,13 @@ https://www.sbb.ch/en/trip?tripId=3HA.eNqllN1u2kgUx0XSLV32zlcb-qFRjVaV0oiZ8Xg8jo
 🚗 By Car: Silene (Canton Uri) by train, bus or car. 
 If you go by car, you can park your car in Silenen. Meeting around 9:45 at cable car station https://maps.app.goo.gl/28aaHmJT3T9uQeeS8?g_st=ipc
 
-🚠 Historical cable car (7.00 to 21.00 in evening) costs 14.- both way (cash, card or Twint), up to 4 people (or 320 kg) per trip. Top of cable car at 1159m https://www.chilcherbergen.ch/ 
-could be busy with waiting time. At the top, they are elling soft drinks for 3.-, have toilets
+🚠 Historical cable car!
+- 7.00 to 21.00 in evening, costs 14.- both way (cash, card or Twint), 
+- up to 4 people (or 320 kg) per trip.
+- Top of cable car at 1159m https://www.chilcherbergen.ch/ 
+- Could be busy with waiting time.
+- At the top, they are selling soft drinks for 3.-, have toilets
+- Tips: when going down, take seats in front :-)
 
 🏁 Start: exhausting 1.5h walk up to the start: 1750 m, 10% now shadows, 90% in the forest
 
