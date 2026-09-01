@@ -5,7 +5,8 @@ The via ferrata La Resgia can be easily combined with the via ferrata Languard (
 A very nice Ferrata with 2 options to choose in the middle. 1 is with overhang, quite demanding. 
 
 - https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/
-- https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/languard-via-ferrata-754/
+- K4 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/la-resgia-via-ferrata-709/
+- K5 https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-ferrata/languard-via-ferrata-754/
 
 Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m. 
 
