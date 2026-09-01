@@ -9,8 +9,7 @@ https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/la-resgia-7790/via-fer
 
 Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m. 
 
- 
- You MUST sign the waiver form, it contains detailed information about the difficulty and more -> XXXXXXXX
+You MUST sign the waiver form, it contains detailed information about the difficulty and more -> XXXXXXXX
 
 ⏱️ Duration 3 hours total
 
@@ -22,13 +21,15 @@ Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m.
 
 🏁 Time of leaving: 5:55AM to platform 10
 
-🚂 Recommended train: XXXXXXXXXXX
+🚂 Recommended train: 3h20  https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EPontresina%2C+Hotel+Pal%C3%BC%2C+Via+da+Bernina_I980198771&day=2026-09-03&time=07_00&moment=dep&trip=0_0
 
-🚗 Pontresina, Hotel Palü, Via da Bernina
+🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50 https://www.google.com/maps/dir/Zürich+HB,+Bahnhofplatz,+8001+Zürich/Hotel+Palü,+Via+da+Bernina+17,+7504+Pontresina/@46.9181073,8.6493576,135594m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5403767!2d47.3780356!1m5!1m1!1s0x47837bf0ae7bd5fb:0xa3df86b331003d17!2m2!1d9.9136371!2d46.4827499!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
-🚠 chairlift: https://www.engadin.stmoritz.ch/sommer/de/aktivitaeten/bergerlebnis/bergbahnen/betriebszeiten-bergbahne
+🚠 chairlift: 
+https://www.google.com/maps/place/Sesselbahn+Alp+Languard/@46.4910248,9.9039727,534m/data=!3m1!1e3!4m14!1m7!3m6!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!2sSesselbahn+Alp+Languard!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg!3m5!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
 🅿️ Parking: 46.4813°, 9.9151°
+Attention: 3.- CHF per hour!
 
 🏁 Start 15min walk +120m
 
@@ -38,7 +39,7 @@ Has 382 metal steps and 620 meters of wire rope; Easy Up to 2 hours and 330m.
 
 Travelling home: by public transportation
 
-💬 WhatsApp group: XXXXXXX
+💬 WhatsApp group: https://links.waltercedric.com/Languard-La-Resgia
 
 🚰 Water: The route is exposed to the sun from 9:00, throughout the season. No access to water for 2-3 hours!
 
