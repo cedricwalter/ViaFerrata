@@ -14,7 +14,7 @@ You MUST sign the waiver form, it contains detailed information about the diffic
 
 ⏱️ Duration 3 hours total
 
-☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/kandersteg/3718.html#forecast-tab=detail-view
+☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/pontresina/7504.html#forecast-tab=detail-view
 
 📈 Difficulty: C-D, +250m, 3h
 
