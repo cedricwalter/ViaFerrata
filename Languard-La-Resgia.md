@@ -27,6 +27,8 @@ You MUST sign the waiver form, it contains detailed information about the diffic
 🚗 Pontresina, Hotel Palü, Via da Bernina, 2h50 https://www.google.com/maps/dir/Zürich+HB,+Bahnhofplatz,+8001+Zürich/Hotel+Palü,+Via+da+Bernina+17,+7504+Pontresina/@46.9181073,8.6493576,135594m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0x47900a08cc0e6e41:0xf5c698b65f8c52a7!2m2!1d8.5403767!2d47.3780356!1m5!1m1!1s0x47837bf0ae7bd5fb:0xa3df86b331003d17!2m2!1d9.9136371!2d46.4827499!3e0?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
 🚠 chairlift: 
+20.50 CHF to go down back to the valley (very long ride<img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/e6118939-5d1f-4be3-9f7f-4e4db40186a8" />
+)
 https://www.google.com/maps/place/Sesselbahn+Alp+Languard/@46.4910248,9.9039727,534m/data=!3m1!1e3!4m14!1m7!3m6!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!2sSesselbahn+Alp+Languard!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg!3m5!1s0x47837d0fb40149a3:0xf0c75ea3bf32b22a!8m2!3d46.4910248!4d9.906553!16s%2Fg%2F11tf81rtmg?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D
 
 🅿️ Parking: 46.4813°, 9.9151°
@@ -54,8 +56,4 @@ Travelling home: by public transportation
 
 <img width="769" height="906" alt="La Resgia" src="https://github.com/user-attachments/assets/032160e9-a5c4-4979-814d-196a8e91db31" />
 <img width="1240" height="716" alt="La Resgia2" src="https://github.com/user-attachments/assets/ffbcc8dc-956d-460a-9778-124d305226f9" />
-
-
-
-
-
+<img width="1280" height="1779" alt="IMG_4387" src="https://github.com/user-attachments/assets/eaf7d906-4e11-4cef-b4e8-f1e83fa15598" />
