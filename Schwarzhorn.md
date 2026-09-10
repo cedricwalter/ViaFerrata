@@ -5,7 +5,7 @@ Airily staggered aluminum ladders on steep vertical rock faces and an exposed ri
 
 ⏱️ Duration 6-7h hours for the complete round trip from Grindelwald, 10.5km
 
-☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/XXXXX/XXXX.html#forecast-tab=detail-view
+☀️Weather: https://www.meteoschweiz.admin.ch/lokalprognose/schwarzhorn.html#forecast-tab=detail-view
 
 📈 Difficulty: K3 (Moderate / slightly difficult), +350m climb on 900m length
 
