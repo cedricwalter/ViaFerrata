@@ -14,7 +14,8 @@ Airily staggered aluminum ladders on steep vertical rock faces and an exposed ri
 🏁 Time of leaving: 6:55AM to platform 31
 
 🚂 Recommended train: 
-https://www.sbb.ch/de?stops=Z%C3%BCrich+HB_I8503000%7EGrindelwald+%28Firstbahn%29_I8507350&day=2026-09-12&time=07_00&moment=dep&cursor=M3xPRnxNVMK1MTTCtTM5NjM2MsK1Mzk2MzYywrUzOTY1MzLCtTM5NjU2MsK1MMK1MMK1MTI1wrUzOTYzMjDCtTfCtTDCtTLCtTDCtTDCtS0yMTQ3NDgzNjQ4wrUxwrUyfFBESMK1ZmFhOTNkMWZlNDY2Njc0ZjA3YTgwYWZjMDQyNzcwZTh8UkTCtTEyMDkyMDI2fFJUwrU3MDAwMHxVU8K1MHxSU8K1SU5JVA%3D%3D&trip=1_1
+https://a.sbbmobile.ch/s/eUiFjeQxhttps://a.sbbmobile.ch/s/eUiFjeQx<img width="1350" height="546" alt="image" src="https://github.com/user-attachments/assets/2a84239a-4b45-4bfc-a1a4-7bfeb51dcc69" />
+
 To get from Zürich HB to the Schwarzhorn via ferrata (Klettersteig), take a train to Interlaken Ost, transfer to Grindelwald, ride the First gondola, and hike 1.5 to 2 hours to the base. The total travel time from Zurich to the trailhead is roughly 3.1h
 
 🚗 By Car: Bern - follow the A8 to Interlaken and via Lütschental to Grindelwald.
