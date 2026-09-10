@@ -26,15 +26,11 @@ St. Antönien / Partnun (Graubünden, Switzerland) / Rätikon
 🅿️ Parking: St. Antönien in Prättigau (1,420 meters). 
 Bus from Küblis railway station to Rüti or parking lots below Partnun (1620 meters).
 
-🚠 Cable car: Back and forth ticket 38 CHF with GA or Half Fare, 76 CHF without anything
-- 08:00 to 18:00 https://www.jungfrau.ch/de-ch/planen-buchen/fahrplan/?to=First
-- https://www.jungfrau.ch/de-ch/grindelwaldfirst
-- https://grindelwald.swiss/de/map/detail/grindelwald-first-b8e09f4c-b0e7-439b-a1fa-fb0285e72279.html
-<img width="535" height="720" alt="grindenwald" src="https://github.com/user-attachments/assets/16213952-27ed-4fdd-b71b-27249ff176ae" />
+🚠 Cable car: None
 
 🏁 Start: Starts past Partnun above the Partnunsee, following steep blue-marked alpine tracks up to the entry wall at roughly 2,360 meters. 
-Begins with an entry ladder, moving across the "Obelix Crossing" and up the main ramp. Note: No turning back is possible past this ramp
-Features the exposed "Panoramica" traverse, the "Deichmann Bridge" wire bridge, and the strenuous "Wailing Wall" final push to the top
+- Begins with an entry ladder, moving across the "Obelix Crossing" and up the main ramp. Note: No turning back is possible past this ramp
+- Features the exposed "Panoramica" traverse, the "Deichmann Bridge" wire bridge, and the strenuous "Wailing Wall" final push to the top
 
 🎯 End: Takes about 2h30min up steel cables 
 
@@ -46,7 +42,7 @@ Travelling home: by public transportation
 
 🚰 Water: No access to water for >6 hours!
 
-🏊 Alpine lake (optional): Yes/No
+🏊 Alpine lake (optional): lake located right on your descent path from the climb: Partnunsee (Lake Partnun) 1862m. Crystal-clear, emerald-turquoise alpine lake nestled right underneath the massive limestone walls of the Sulzfluh
 
 🛍️ Renting equipment: 
 rent directly at Berghaus Sulzfluh. It is located in Partnun (St. Antönien), right at the starting area for
