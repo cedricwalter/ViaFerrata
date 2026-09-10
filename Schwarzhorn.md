@@ -14,7 +14,7 @@ Airily staggered aluminum ladders on steep vertical rock faces and an exposed ri
 🏁 Time of leaving: 6:55AM to platform 31
 
 🚂 Recommended train: 
-https://a.sbbmobile.ch/s/eUiFjeQxhttps://a.sbbmobile.ch/s/eUiFjeQx<img width="1350" height="546" alt="image" src="https://github.com/user-attachments/assets/2a84239a-4b45-4bfc-a1a4-7bfeb51dcc69" />
+https://a.sbbmobile.ch/s/eUiFjeQxhttps://a.sbbmobile.ch/s/eUiFjeQx
 
 To get from Zürich HB to the Schwarzhorn via ferrata (Klettersteig), take a train to Interlaken Ost, transfer to Grindelwald, ride the First gondola, and hike 1.5 to 2 hours to the base. The total travel time from Zurich to the trailhead is roughly 3.1h
 
